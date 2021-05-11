@@ -5,7 +5,9 @@ This an front end project by using reactjs
 ### is used for heading 3
 #### is for heading 4 only 4# are used
 *font style in italic* after* dont give space
+
 **font style in bold**
+
 ***used for both italic and bold***
 # unordered list name
 * fruits
