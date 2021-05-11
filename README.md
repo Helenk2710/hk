@@ -18,3 +18,5 @@ This an front end project by using reactjs
     1. Whole numbers
     2. Integers
     3. Natural numbers
+
+![Taj mahal](https://www.google.com/search?q=taj+mahal+images&rlz=1C1SQJL_enIN919IN919&sxsrf=ALeKk031uRKDXcDOSnVQs_fP0rNfLkSfug:1620724653459&tbm=isch&source=iu&ictx=1&fir=SQDwgDdVj9EABM%252CC8YZfvssBsvuXM%252C_&vet=1&usg=AI4_-kTRwuLpVpNFZATm2ILipFLl8kV0eA&sa=X&ved=2ahUKEwid2f3ppcHwAhVe63MBHZu0CVIQ9QF6BAgHEAE&biw=1242&bih=597#imgrc=SQDwgDdVj9EABM)
