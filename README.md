@@ -1,5 +1,5 @@
 # hk
-This an front end project by using reactjs
+This is a front end project by using reactjs
 # it is used for heading 1 dont forget to give space after#
 ## is used for heading 2 
 ### is used for heading 3
