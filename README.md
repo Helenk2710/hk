@@ -9,19 +9,26 @@ This an front end project by using reactjs
 
 *font style in italic* after* dont give space
 
+_another itallic font_
+
+
+
 **font style in bold**
 
-***used for both italic and bold***
-# unordered list name
-* fruits
-* vegetables
-  * carrot
-  * potato
-## ordered list
-1. Alphabets
-2. Digits
-    1. Whole numbers
-    2. Integers
-    3. Natural numbers
+__another bold font__
 
-![Taj mahal]()
+***used for both italic and bold***
+_You **can** combine them_
+
+# Unodered Lists
+* Fruits
+  * Apple
+  * Mango
+  * Banana
+
+## Odered List
+1. Vegetables
+2. Nuts
+   1. Cashew
+   2. Wallnut
+   3. Pista
