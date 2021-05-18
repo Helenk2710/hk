@@ -32,3 +32,6 @@ _You **can** combine them_
    1. Cashew
    2. Wallnut
    3. Pista
+
+![Masha](https://kidscreen.com/wp/wp-content/uploads/2017/11/KS.jpg)
+
