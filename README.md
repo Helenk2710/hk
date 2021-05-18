@@ -11,8 +11,6 @@ This is a front end project by using reactjs
 
 _another itallic font_
 
-
-
 **font style in bold**
 
 __another bold font__
