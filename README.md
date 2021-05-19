@@ -33,3 +33,6 @@ _You **can** combine them_
 
 ![Masha](https://kidscreen.com/wp/wp-content/uploads/2017/11/KS.jpg)
 
+Table 1 | Table 2
+--------|--------
+Body 1  | Body 2
