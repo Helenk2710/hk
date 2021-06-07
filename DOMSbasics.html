@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="hai">"Hai!"</h1>
+    <h1 class="1">Hello All</h1>
+    <h2>This is Java Script</h2>
+    <h3 class="1">Listen carefuuly</h3>
+    <p id="hai">dfkfcvnkgmcgu</p>
+    
+</body>
+</html>
+<script>
+    //getElementsById
+    var a=document.getElementById("hai")
+    console.log(a.innerHTML)
+    //getElementByClassName
+    var a=document.getElementsByClassName("1")
+    console.log(a[0].innerHTML)
+   //getElementsByTagName
+    var a=document.getElementsByTagName("h1")
+    console.log(a[0].innerHTML)
+
+   //query selector
+  // var a=document.getElementsByTagName("p")
+ //  console.log(a.innerHTML);
+
+ //time display button
+ <button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+<p id="demo"></p>
+</script>
